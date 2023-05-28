@@ -1,0 +1,16 @@
+{
+    "id": "94b39640-b47e-406f-8d89-da93f74c8eaf",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.37.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "https://github.com/Nabhag8848",
+        "support": "https://github.com/Nabhag8848"
+    },
+    "name": "Infrastructure",
+    "nameSlug": "infrastructure",
+    "classFile": "InfrastructureApp.ts",
+    "description": "Infrastructure for all the Apps",
+    "implements": []
+}
